@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-***ME MYSELF AND I***
-- 🎲 **Role** : Frontend Alchemist / Code Sorcerer
-- 📜 **Passive Skill** : Google Search Mastery (Level 99)
-- ⚡ **Ultimate** : Fixing production bugs in 1 commit
-- 🔮 **Current Ritual** : Transmuting coffee into working apps
-- 🛡️ **Weakness** : Missing semicolons & CSS centering
+### ⚔️ **PLAYER PROFILE // ME MYSELF AND I**
+
+> *"Transmuting caffeine into production-ready code since day one."*
+
+* 🎭 **Class / Role** :: `Frontend Alchemist` & `Code Sorcerer`
+* 📜 **Passive Skill** :: `Google Search Mastery` — *Lvl. 99 (Can find any fix in 2 clicks)*
+* ⚡ **Ultimate Ability** :: `One-Commit Miracle` — *Instantly resolves critical prod bugs*
+* 🔮 **Current Ritual** :: `Coffee Transmutation` — *Converting espresso into responsive UIs*
+* 🎒 **Active Quest** :: `Refactoring Chaos` — *Taming wild codebases & building clean web apps*
+* 🛡️ **Weakness** :: `Centering Divs` & `Mysterious Semicolons` — *-10 HP on CSS layout bugs*
+* 🌌 **Mana Source** :: `Lo-Fi Beats` & `Dark Mode Interfaces` — *+50% coding speed*
 
 <p align="center">
   <a href="https://skillicons.dev">

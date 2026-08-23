@@ -1,6 +1,6 @@
 ## ⚜️ARCHMAGE
 
-![Cool GIF](https://media.giphy.com/media/DY1KSjEuVMarPIzfkq/giphy.gif)
+<img src="https://media.giphy.com/media/DY1KSjEuVMarPIzfkq/giphy.gif" width="100%" alt="Header GIF" />
 
 <!--
 **glllenn/glllenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

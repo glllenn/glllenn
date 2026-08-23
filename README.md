@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 
 > *"Transmuting caffeine into production-ready code since day one."*
 
-* 🎭 **Class / Role** :: `Frontend Alchemist` & `Code Sorcerer`
-* 📜 **Passive Skill** :: `Google Search Mastery` — *Lvl. 99 (Can find any fix in 2 clicks)*
-* ⚡ **Ultimate Ability** :: `One-Commit Miracle` — *Instantly resolves critical prod bugs*
-* 🔮 **Current Ritual** :: `Coffee Transmutation` — *Converting espresso into responsive UIs*
-* 🎒 **Active Quest** :: `Refactoring Chaos` — *Taming wild codebases & building clean web apps*
-* 🛡️ **Weakness** :: `Centering Divs` & `Mysterious Semicolons` — *-10 HP on CSS layout bugs*
-* 🌌 **Mana Source** :: `Lo-Fi Beats` & `Dark Mode Interfaces` — *+50% coding speed*
+> *"Transmuting caffeine into production-ready code since day one."*
+
+* 🎭 <font size="4"><b>Class / Role</b> :: `Frontend Alchemist` & `Code Sorcerer`</font>
+* 📜 <font size="4"><b>Passive Skill</b> :: `Google Search Mastery` — <i>Lvl. 99 (Can find any fix in 2 clicks)</i></font>
+* ⚡ <font size="4"><b>Ultimate Ability</b> :: `One-Commit Miracle` — <i>Instantly resolves critical prod bugs</i></font>
+* 🔮 <font size="4"><b>Current Ritual</b> :: `Coffee Transmutation` — <i>Converting espresso into responsive UIs</i></font>
+* 🎒 <font size="4"><b>Active Quest</b> :: `Refactoring Chaos` — <i>Taming wild codebases & building clean web apps</i></font>
+* 🛡️ <font size="4"><b>Weakness</b> :: `Centering Divs` & `Mysterious Semicolons` — <i>-10 HP on CSS layout bugs</i></font>
+* 🌌 <font size="4"><b>Mana Source</b> :: `Lo-Fi Beats` & `Dark Mode Interfaces` — <i>+50% coding speed</i></font>
 
 <p align="center">
   <a href="https://skillicons.dev">

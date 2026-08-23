@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > *"Transmuting caffeine into production-ready code since day one."*
 
-> *"Transmuting caffeine into production-ready code since day one."*
-
 * 🎭 <font size="4"><b>Class / Role</b> :: `Frontend Alchemist` & `Code Sorcerer`</font>
 * 📜 <font size="4"><b>Passive Skill</b> :: `Google Search Mastery` — <i>Lvl. 99 (Can find any fix in 2 clicks)</i></font>
 * ⚡ <font size="4"><b>Ultimate Ability</b> :: `One-Commit Miracle` — <i>Instantly resolves critical prod bugs</i></font>

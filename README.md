@@ -1,4 +1,6 @@
-## Hi there 👋
+## ⚜️ARCHMAGE
+
+<iframe src="https://giphy.com/embed/DY1KSjEuVMarPIzfkq" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angry-power-furius-DY1KSjEuVMarPIzfkq">via GIPHY</a></p>
 
 <!--
 **glllenn/glllenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎲 **Role** : Frontend Alchemist / Code Sorcerer
+- 📜 **Passive Skill** : Google Search Mastery (Level 99)
+- ⚡ **Ultimate** : Fixing production bugs in 1 commit
+- 🔮 **Current Ritual** : Transmuting coffee into working apps
+- 🛡️ **Weakness** : Missing semicolons & CSS centering
